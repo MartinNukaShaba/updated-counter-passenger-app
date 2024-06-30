@@ -1,0 +1,39 @@
+body {
+    background-image: url("modernpic.png");
+    background-size: cover0000;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'century gothic', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+}
+
+#increment-btn {
+    background: royalblue;
+}
+
+#save-btn {
+    background: green;
+}
+
